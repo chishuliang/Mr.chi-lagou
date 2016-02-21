@@ -522,19 +522,20 @@ body{
 }
 
 .slider_1_a div h2 {
-    margin: 10px;
+    margin: 10px 8px 8px;
     font-size: 24px;
     height: 24px;
     line-height: 24px;
     overflow: hidden;
     text-align: center;
     color: white;
+    font-weight: 400;
 }
 
 .slider_1_a div em {
     display: block;
-    margin: 0 7px;
-    width: 99px;
+    margin: 0 6.5px;
+    width: 100px;
     height: 5px;
     background: white;
     opacity: 0.3;
@@ -543,6 +544,7 @@ body{
 
 .slider_1_a div p {
     font-size: 12px;
+    line-height: 18px;
     margin: 6px 8px;
     color: white;
 }
